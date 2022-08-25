@@ -1,4 +1,8 @@
+npm install
+
 npm run build
+
+
 export APPIUM_HOME=/tmp/some-temp-dir
 
 ./node_modules/.bin/appium plugin install --source=local .
